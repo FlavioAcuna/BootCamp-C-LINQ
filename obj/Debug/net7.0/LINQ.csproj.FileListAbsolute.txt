@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\bin\Debug\net7.0\LINQ.exe
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\bin\Debug\net7.0\LINQ.deps.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\bin\Debug\net7.0\LINQ.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\bin\Debug\net7.0\LINQ.pdb
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.pdb
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 5\LINQ\obj\Debug\net7.0\ref\LINQ.dll
